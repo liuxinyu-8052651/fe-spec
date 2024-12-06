@@ -1,0 +1,23 @@
+{
+  "name": "encode-fe-commitlint-config",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "Git规范",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "lxy",
+  "homepage": "https://github.com/liuxinyu-8052651/fe-spec#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxinyu-8052651/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liuxinyu-8052651/fe-spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
