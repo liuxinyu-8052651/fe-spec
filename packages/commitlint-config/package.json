@@ -1,5 +1,5 @@
 {
-  "name": "encode-fe-commitlint-config",
+  "name": "lxy-fe-commitlint-config",
   "version": "0.0.1",
   "main": "index.js",
   "description": "Git规范",
